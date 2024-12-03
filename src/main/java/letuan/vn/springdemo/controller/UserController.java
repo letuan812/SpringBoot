@@ -1,8 +1,10 @@
 package letuan.vn.springdemo.controller;
 
+import letuan.vn.springdemo.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import service.UserService;
+//import service.UserService;
 
 import java.util.List;
 
